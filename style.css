@@ -1,0 +1,19 @@
+body{
+    background-color: #E5E5E5;
+
+}
+.navbar img{
+    width: 40px;
+    
+}
+.player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    
+}
+.blog-item img{
+    width: 177px;
+    height: 117px;
+}
